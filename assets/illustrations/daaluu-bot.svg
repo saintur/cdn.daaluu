@@ -1,0 +1,43 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M52.7565 39.7519C50.5882 40.1749 49.1734 42.2756 49.5965 44.4438L52.6084 59.8811L37.7039 62.7891C35.5356 63.2121 34.1208 65.3128 34.5439 67.481C34.9669 69.6493 37.0676 71.064 39.2358 70.641L54.1404 67.733L57.2563 83.7035C57.6794 85.8718 59.78 87.2866 61.9483 86.8635C64.1165 86.4405 65.5313 84.3398 65.1083 82.1716L61.9923 66.2011L78.4956 62.9812C80.6638 62.5581 82.0786 60.4575 81.6556 58.2892C81.2325 56.1209 79.1319 54.7062 76.9636 55.1292L60.4604 58.3491L57.4484 42.9118C57.0254 40.7436 54.9247 39.3288 52.7565 39.7519Z" fill="black">
+        <animateTransform
+                attributeName="transform"
+                begin="0s"
+                dur="0.9s"
+                type="rotate"
+                from="0 57 63"
+                to="180 57 63"
+                fill="freeze"
+                repeatCount="infinite" />
+    </path>
+<path d="M147.378 41.3111L161.538 79.1461C161.81 79.8725 161.188 80.6185 160.424 80.4808L119.775 73.1469C119.012 73.0092 118.689 72.0926 119.197 71.5071L145.687 41.0059C146.184 40.4334 147.112 40.6009 147.378 41.3111Z" stroke="#2D2D2D" stroke-width="8">
+    <animateTransform
+            attributeName="transform"
+            begin="0s"
+            dur="0.9s"
+            type="rotate"
+            from="0 142 63"
+            to="180 142 63"
+            fill="freeze"
+            repeatCount="infinite" />
+</path>
+<circle cx="48" cy="131" r="21" stroke="#363636" stroke-width="8">
+    <animate
+            attributeName="opacity"
+            dur="0.9s"
+            values="1;0.5;1"
+            fill="freeze"
+            repeatCount="1" />
+</circle>
+<rect x="111" y="116" width="42" height="42" rx="8" transform="rotate(-16.5261 111.973 116.92)" stroke="#525252" stroke-width="8">
+    <animateTransform
+            attributeName="transform"
+            begin="0s"
+            dur="0.9s"
+            type="rotate"
+            from="0 132 137"
+            to="180 132 137"
+            fill="freeze"
+            repeatCount="infinite" />
+</rect>
+</svg>

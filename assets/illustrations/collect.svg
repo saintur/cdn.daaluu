@@ -1,0 +1,54 @@
+<svg width="256" height="200" viewBox="0 0 256 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="90" y="28" width="76" height="143" rx="15" fill="#404040">
+    <animateTransform
+            attributeName="transform"
+            begin="0s"
+            dur="0.6s"
+            type="rotate"
+            from="0 128 100"
+            to="-40 128 168"
+            fill="freeze"
+            repeatCount="1" />
+</rect>
+<rect x="90" y="29" width="76" height="143" rx="15" fill="#343434">
+    <animateTransform
+            attributeName="transform"
+            begin="0s"
+            dur="0.6s"
+            type="rotate"
+            from="0 128 100"
+            to="-20 128 170"
+            fill="freeze"
+            repeatCount="1" />
+</rect>
+<rect x="90" y="29" width="76" height="143" rx="15" fill="#242424"/>
+<rect x="90" y="29" width="76" height="143" rx="15" fill="#1A1A1A">
+    <animateTransform
+            attributeName="transform"
+            begin="0s"
+            dur="0.6s"
+            type="rotate"
+            from="0 128 100"
+            to="20 128 170"
+            fill="freeze"
+            repeatCount="1" />
+</rect>
+<g>
+    <rect x="90" y="28.5363" width="76" height="143" rx="15" fill="black"/>
+    <path opacity="0.6" d="M141.58 96.94V100H110V96.94C110 92.3 113.78 88.52 118.42 88.52H133.16C137.8 88.52 141.58 92.3 141.58 96.94Z" fill="#404040" fill-opacity="0.93"/>
+    <path opacity="0.4" d="M141.58 100V111.58C141.58 116.22 137.8 120 133.16 120H118.42C113.78 120 110 116.22 110 111.58V100H141.58Z" fill="#404040" fill-opacity="0.93"/>
+    <path d="M117 86.24C116.18 86.24 115.5 85.56 115.5 84.74V81.24C115.5 80.42 116.18 79.74 117 79.74C117.82 79.74 118.5 80.42 118.5 81.24V84.74C118.5 85.58 117.82 86.24 117 86.24Z" fill="#404040" fill-opacity="0.93"/>
+    <path d="M125 86.24C124.18 86.24 123.5 85.56 123.5 84.74V81.24C123.5 80.42 124.18 79.74 125 79.74C125.82 79.74 126.5 80.42 126.5 81.24V84.74C126.5 85.58 125.82 86.24 125 86.24Z" fill="#404040" fill-opacity="0.93"/>
+    <path d="M133 86.24C132.18 86.24 131.5 85.56 131.5 84.74V81.24C131.5 80.42 132.18 79.74 133 79.74C133.82 79.74 134.5 80.42 134.5 81.24V84.74C134.5 85.58 133.82 86.24 133 86.24Z" fill="#404040" fill-opacity="0.93"/>
+    <path d="M149.3 104.64C149.3 108.94 145.82 112.42 141.52 112.42V96.84C145.8 96.84 149.3 100.34 149.3 104.64Z" fill="#404040" fill-opacity="0.93"/>
+    <animateTransform
+            attributeName="transform"
+            begin="0s"
+            dur="0.6s"
+            type="rotate"
+            from="0 128 100"
+            to="40 128 170"
+            fill="freeze"
+            repeatCount="infinite" />
+</g>
+</svg>
